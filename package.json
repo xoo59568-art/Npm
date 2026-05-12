@@ -2,7 +2,7 @@
   "name": "rabbitxmd-api",
   "version": "1.0.0",
   "description": "Fast multi-provider media downloader SDK with race & fallback support",
-  "main": "index.js",
+  "main": "dist/index.js",
   "keywords": [
     "downloader",
     "instagram",
