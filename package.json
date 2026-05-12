@@ -1,6 +1,6 @@
 {
   "name": "rabbitxmd-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Fast media downloader SDK — Instagram, Facebook, TikTok, Song",
   "main": "index.js",
   "keywords": ["downloader", "instagram", "facebook", "tiktok", "song", "media"],
